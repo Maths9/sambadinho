@@ -1,3 +1,3 @@
 ### Landing Page
 
-#### Live: https://maths9.github.io/
+#### Live: https://maths9.github.io/sambadinho/
